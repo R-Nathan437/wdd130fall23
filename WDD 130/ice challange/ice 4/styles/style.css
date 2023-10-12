@@ -1,0 +1,27 @@
+header{
+    background-color: pink;
+    color: white;
+    text-align: center;
+}
+
+header h1:hover{
+    background-color:black;
+}
+
+body{
+    background-color: pink;
+    color: black;
+    text-align: center;
+}
+.bquote{
+    color:white;
+}
+
+img{
+    max-width: 30em;
+
+}
+footer{
+    text-align: center;
+    background-color: pink;
+}
